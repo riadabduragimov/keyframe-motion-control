@@ -84,4 +84,3 @@ The animated object is a 3D teapot, and the system allows switching between inte
 - `-` → Decrease animation speed  
 - `ESC` → Exit  
 
----
